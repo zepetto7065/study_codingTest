@@ -4,10 +4,10 @@
 
 1. 개념
     스택, 큐 정리해보기 - 간단한 개념 정리해주시면 됩니다.
-
+    파일명 예시 ) 유상문_개념정리.txt
 2. 문제
     이름-번호-풀이.py 로 파이썬 파일을 만들어서 올리시면 됩니다.
-    예) 유상문-0번-풀이.py 로 올려주시면 됩니다.
+    파일명 예시 ) 유상문-0번-풀이.py 로 올려주시면 됩니다.
 
     1번 - 스택
     https://www.acmicpc.net/problem/10828
@@ -23,22 +23,22 @@
 
 3. Git Branch Flow
 
-저희는 개발을 하는 것이 아니니, master - feature branch 간의  Merge Request 만 이루어집니다.
-이하 개발 순서입니다.
-1) 작업 시작전 - fork에서 master(or main) branch를 더블클릭(체크아웃) 후, 여태 받지 못한 소스를 pull 받습니다.
-            - 각자가 작업할 brach를 추가합니다. fork 좌측 메뉴 Branches 우클릭시, 'create New Branch' 클릭 후, 다음과 같은
-            네임으로 브랜치를 작성합니다. 'feature/#유상문_예제_풀이'
-            - 이름은 어떻게 짓든 크게 영향은 없으나 feature 폴더 안에서 관리해 주세요.
+    저희는 개발을 하는 것이 아니니, master - feature branch 간의  Merge Request 만 이루어집니다.
+    이하 개발 순서입니다.
+    1) 작업 시작전 - fork에서 master(or main) branch를 더블클릭(체크아웃) 후, 여태 받지 못한 소스를 pull 받습니다.
+                - 각자가 작업할 brach를 추가합니다. fork 좌측 메뉴 Branches 우클릭시, 'create New Branch' 클릭 후, 다음과 같은
+                네임으로 브랜치를 작성합니다. 'feature/#유상문_예제_풀이'
+                - 이름은 어떻게 짓든 크게 영향은 없으나 feature 폴더 안에서 관리해 주세요.
 
-2) 작업      - 작업은 생성한 브랜치를 더블 클릭 ( 체크아웃 ) 하신 후, 작업해주세요.
-            - Local 에서 소스를 변경하시거나 생성하신 이후, Commit하시고 본인이 만든 feature branch와 이름이 같은
-              Origin(원격) feature 브랜치로 Push 를 해주세요
-            - 해당 github 주소에 들어가서 ( https://github.com/zepetto7065/study_codingTest/ )
-              pull request 탭 -> New Pull Request를 생성해주세요.
-            - 생성되신 PR(Pull Request or Merge Request -> 이건 깃헙이냐 깃랩이냐 서비스에 따라 이름이 조금씩 다릅니다.이하 PR이라하겠습니다.)
-              에서 코드리뷰를 진행해주세요
-            - Merge Request는 누르지말고 코드리뷰만 진행해주세요.
+    2) 작업      - 작업은 생성한 브랜치를 더블 클릭 ( 체크아웃 ) 하신 후, 작업해주세요.
+                - Local 에서 소스를 변경하시거나 생성하신 이후, Commit하시고 본인이 만든 feature branch와 이름이 같은
+                  Origin(원격) feature 브랜치로 Push 를 해주세요
+                - 해당 github 주소에 들어가서 ( https://github.com/zepetto7065/study_codingTest/ )
+                  pull request 탭 -> New Pull Request를 생성해주세요.
+                - 생성되신 PR(Pull Request or Merge Request -> 이건 깃헙이냐 깃랩이냐 서비스에 따라 이름이 조금씩 다릅니다.이하 PR이라하겠습니다.)
+                  에서 코드리뷰를 진행해주세요
+                - Merge Request는 누르지말고 코드리뷰만 진행해주세요.
 
-3) 작업후     - 본인이 만들으신 feature 브랜치는 PR 이후 Master 브랜치에 Merge가 되었으면 삭제하여 관리해주세요.
+    3) 작업후     - 본인이 만들으신 feature 브랜치는 PR 이후 Master 브랜치에 Merge가 되었으면 삭제하여 관리해주세요.
 
-4) * 언제든 연락주셔서 서로 물어봐주세요.
+    4) * 언제든 연락주셔서 서로 물어봐주세요.
