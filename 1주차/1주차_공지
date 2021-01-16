@@ -1,3 +1,24 @@
+#예
 해시 완주하지 못한 선수 - https://programmers.co.kr/learn/courses/30/lessons/42576
 
-안녕하세요
+1. 개념
+스택, 큐 정리해보기 - 간단한 개념 정리해주시면 됩니다.
+
+2. 문제
+이름-번호-풀이.py 로 파이썬 파일을 만들어서 올리시면 됩니다.
+예) 유상문-0번-풀이.py 로 올려주시면 됩니다.
+
+1번 - 스택
+https://www.acmicpc.net/problem/10828
+
+2번 - 스택
+https://www.acmicpc.net/problem/10773
+
+3번 - 큐
+https://www.acmicpc.net/problem/18258
+
+4번 - 큐
+https://www.acmicpc.net/problem/2164
+
+3. Git 사용법
+추후 올릴 예정
