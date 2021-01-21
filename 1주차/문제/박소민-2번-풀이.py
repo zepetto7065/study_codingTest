@@ -1,6 +1,6 @@
-K = int(input())
+k = int(input())
 a = []
-for _ in range(K):
+for _ in range(k):
     n = int(input())
     if a and n == 0:
         a.pop()

@@ -3,8 +3,8 @@ from collections import deque
 import sys
 input = sys.stdin.readline  # 보통 input을 사용하지만 시간단축을 위해 sys.stdin.readline를 사용
 que = deque()
-N = int(input())
-for _ in range(N):
+n = int(input())
+for _ in range(n):
     a = list(map(str, input().split()))
     # input값을 공백기준으로 나눈 후, map을 통해 string형식으로 변환하고,
     # 그 값들을 list로 만들어준다.
