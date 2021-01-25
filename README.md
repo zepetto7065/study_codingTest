@@ -13,6 +13,10 @@ Coding Test 스터디 개념&amp;문제 저장소
      3번 - 큐 https://www.acmicpc.net/problem/18258
           
      4번 - 큐 https://www.acmicpc.net/problem/2164
+
+     5번 - 스택 https://www.acmicpc.net/problem/1874 스택 수열
+
+     6번 - 큐 https://www.acmicpc.net/problem/11866 요세푸스
      
 
   1. 해쉬(3), 힙(1) - 2주차 (1월 23일 - 1월 30일 ) 

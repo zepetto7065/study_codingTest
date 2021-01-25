@@ -1,41 +1,27 @@
-
 n = int(input())
-stack = []
+stack  = []
+result = []
 
-for i in range(1,n+1):
-    stack.append(i)
+no_yn = False;
+count = 0
 
-temp = []
-
-for i in range(1, n+1):
+for i in range(n):
     c = int(input())
-    if len(stack):
-        if i == 1 :
-            for j in range(1,c+1):
-                temp.append(j)
-                stack.remove(j)
-                print('+')
-            temp.pop()
-            print('-')
-        elif c == temp[-1]:
-            temp.pop()
-            print('-')
-        else:
-            for k in range(stack[0], c+1):
-                temp.append(k)
-                stack.remove(k)
-                print('+')
-            temp.pop()
-            print('-')
+
+    while count < c:
+        count+=1
+        stack.append(count)
+        result.append("+")
+
+    if stack[-1] == c:
+        stack.pop()
+        result.append("-")
     else:
-        for _ in range(len(stack)):
-            print('-')
+        no_yn = True
+        break
 
-
-
-
-
-
-
-
-
+if no_yn is True:
+    print("NO")
+else:
+    for i in result:
+        print(i)
