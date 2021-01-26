@@ -1,0 +1,45 @@
+<HASH>
+
+키(key)와 값(value) 쌍으로 이루어진 구조
+파이썬에서는 딕셔너리 사용
+
+- 초기화
+dictionary = {}
+
+- 요소 추가
+dictionary = {a:'a'}
+dictionary[2] = 'b'
+
+- 요소 삭제
+del dictionary[1]
+
+- 관련 함수
+dictionary.keys()
+ : dict_key([1, 2])
+dictionary.values()
+ : dict_values(['a', 'b'])
+dictionary.items()
+ : dict_items([(1,'a'), (2,'b')])
+
+ <HEAP>
+ 
+ 특정한 규칙을 가지는 트리로, 최댓값과 최솟값을 찾는 연산을 빠르게 하기 위해 고안된 완전이진트리를 기본으로 한다.
+
+ 최소 힙: 부모 노드의 키값이 자식 노드의 키값보다 항상 작은 힙
+          파이썬 heapq 모듈 사용
+ 최대 힙: 부모 노드의 키값이 자식 노드의 키값보다 항상 큰 힙
+
+- 모듈
+import heapq
+
+ - 초기화
+heap = []
+
+ - push
+heapq.heappush(heap, k)
+
+- pop
+heapq.heappop(heap)
+
+- 리스트를 힙으로 변환
+heapq.heapify(list)
