@@ -1,0 +1,32 @@
+<STACK>
+
+나중에 들어온 자료가 먼저 처리되는 LIFO(Last-In-First-Out) 자료구조
+파이썬에서 stack 자료구조를 사용시에는 list를 사용함
+
+- 초기화
+stack = []
+
+- push
+stack.append(k)
+
+- pop
+stack.pop()
+
+
+<QUEUE>
+
+먼저 들어온 자료가 먼저 처리되는 FIFO(First-In-First-Out) 자료구조
+stack과 같이 list를 사용하는 경우(list.append, list.pop(0)), list.pop(0)가 시간이 오래 걸림.
+따라서 deque를 사용함
+
+- 모듈
+from collections import deque
+
+- 초기화
+deque = deque()
+
+- push
+deque.append(k)
+
+- pop
+deque.popleft()
