@@ -1,0 +1,24 @@
+
+<html>
+    <head></head>
+</html>
+<body>
+    <script>
+        function solution(clothes) {
+            let clothesLen = clothes.length;
+            let answer = 1;
+            let obj = {};
+            
+            for(let i=0; i<clothesLen; i++){
+                obj[clothes[i][1]] = (obj[clothes[i][1]] || 1) + 1;
+            }
+            for(let key in obj){
+                answer = obj[key] * answer;
+            }
+            return answer-1; //아무것도 안 입은 상태
+            
+        }
+        let clothesData = [['yellow_hat', 'headgear'], ['blue_sunglasses', 'eyewear'], ['green_turban', 'headgear']]
+        solution(clothesData)
+    </script>
+</body>
