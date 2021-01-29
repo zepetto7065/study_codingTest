@@ -1,11 +1,16 @@
 # study_codingTest
 Coding Test 스터디 개념&amp;문제 저장소
-
+- 코딩 테스트 및 파이썬을 학습을 목표로 합니다.
+- 각 기업에 대한 출제 정보를 토대로 한 주간 목표를 참고하여 한 주 공부합니다.
 ## 목차
-  0. 스택, 큐 - 1주차 (1월 16일 - 1월 22일)
+     3주차 모임후 정리 예정 - 출제 유형
+
+
+## 과제 
+ 1주차 (1월 16일 - 1월 22일) - 스택 & 큐
      
      백준 연습 문제
-
+     
      1번 - 스택 https://www.acmicpc.net/problem/10828
           
      2번 - 스택 https://www.acmicpc.net/problem/10773
@@ -13,13 +18,13 @@ Coding Test 스터디 개념&amp;문제 저장소
      3번 - 큐 https://www.acmicpc.net/problem/18258
           
      4번 - 큐 https://www.acmicpc.net/problem/2164
-
-     5번 - 스택 https://www.acmicpc.net/problem/1874 스택 수열
-
-     6번 - 큐 https://www.acmicpc.net/problem/11866 요세푸스
      
+     5번 - 스택 https://www.acmicpc.net/problem/1874 스택 수열
+     
+     6번 - 큐 https://www.acmicpc.net/problem/11866 요세푸스
 
-  1. 해쉬(3), 힙(1) - 2주차 (1월 23일 - 1월 30일 ) 
+
+2주차 (1월 23일 - 1월 30일 ) - 해시 & 
      
      프로그래머스 연습 문제
      
@@ -32,15 +37,6 @@ Coding Test 스터디 개념&amp;문제 저장소
      4번 - https://programmers.co.kr/learn/courses/30/lessons/42626 더맵게(힙-레벨2)
 
 
-       
-2. 그리디 
-  3. 구현  
-  4. DFS/BFS - 
-  5. 정렬
-  6. 이진 탐색
-  7. 다이나믹 프로그래밍
-  8. 최단 경로
-  9. 그래프 이론
 
 ## 1주차 
   - 아이스브레이킹 
