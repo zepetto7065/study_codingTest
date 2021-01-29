@@ -1,0 +1,3 @@
+collections.Counter
+- 컨테이너에 동일 객체가 몇개인지 확인
+- return 값은 딕셔널리
