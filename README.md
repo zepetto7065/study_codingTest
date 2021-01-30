@@ -68,8 +68,24 @@ Coding Test 스터디 개념&amp;문제 저장소
           
      4번 - https://programmers.co.kr/learn/courses/30/lessons/42626 더맵게(힙-레벨2)
 
+     5번 - https://www.acmicpc.net/problem/9375 (패션왕신해빈-해시)
 
-##진행
+     6번 - https://www.acmicpc.net/problem/1927 (최소힙)
+
+
+3주차 (1월 31일 - 2월 6일 ) - 그리디(탐욕법)
+     
+     프로그래머스 연습 문제
+     
+     1번 - https://programmers.co.kr/learn/courses/30/lessons/42862 체육복 (레벨1)
+          
+     2번 - https://programmers.co.kr/learn/courses/30/lessons/42577 조이스틱 (레벨2)
+          
+     3번 - https://programmers.co.kr/learn/courses/30/lessons/42883 큰수만들기(레벨2)
+          
+     4번 - https://programmers.co.kr/learn/courses/30/lessons/42885 구명보트(레벨2)
+     
+## 진행
 ### 1주차 
   - 아이스브레이킹 
   - 앞으로 모임 내용 정리
@@ -83,6 +99,12 @@ Coding Test 스터디 개념&amp;문제 저장소
   - 추가적으로 잘 나오는 유형 (ex- 스택, 그리디 등) 개인적으로 알아보기
   - git flow 관리도 겸하여 학습의 의미로 각자의 브랜치를 나누어 관리 및 병합한다.
   - 전체적인 개념 공부 및 예제를 푼 후, 난이도를 높여서 다시 복습한다.
+  
+### 3주차
+  - 다음 모임 2/6(토) 10시 - 12시 예정
+  - 2주차 주제 ( 힙, 해시 ) 추가 풀이 ( 백준 - 9375(패션왕 신해빈), 1927 (최소힙) )
+  - Slack 사용 & 깃헙 연동
+  - 다음주 주제 그리디 
 
 ## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
