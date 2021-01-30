@@ -63,3 +63,15 @@ heapq.heappop(heap)
 리스트를 힙으로 바꾸기
 heapq.heapify(list객체)
 
+
+#최대힙 구하기
+import heapq
+
+nums = [4, 1, 7, 3, 8, 5]
+heap = []
+
+for num in nums:
+  heapq.heappush(heap, (-num, num))  # (우선 순위, 값)
+
+while heap:
+  print(heapq.heappop(heap)[1])  # index 1
