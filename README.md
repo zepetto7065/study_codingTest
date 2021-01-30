@@ -2,14 +2,13 @@
 Coding Test 스터디 개념&amp;문제 저장소
 - 코딩 테스트 알고리즘 및 코테용 파이썬 학습을 목표로 합니다.
 - 각 기업에 대한 출제 정보 및 출제수가 빈번한 유형을 정리하여 주간 계획 및 문제 풀이 
-##참여자
-유상문 - https://github.com/zepetto7065
 
-박소민 - https://github.com/hisomini
 
-지혜수 - https://github.com/JeeHyesoo
-
-홍소영 - https://github.com/verysoyoung
+## 참여자
+     유상문 - https://github.com/zepetto7065
+     박소민 - https://github.com/hisomini
+     지혜수 - https://github.com/JeeHyesoo
+     홍소영 - https://github.com/verysoyoung
 
 ## 목차
      3주차 모임후 정리 예정 - 출제 유형 ( 아래는 예시 )
@@ -85,15 +84,15 @@ Coding Test 스터디 개념&amp;문제 저장소
   - git flow 관리도 겸하여 학습의 의미로 각자의 브랜치를 나누어 관리 및 병합한다.
   - 전체적인 개념 공부 및 예제를 푼 후, 난이도를 높여서 다시 복습한다.
 
-##연도 밑 3사 회사 시험유형 
+## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
-###2020
+### 2020
      라인 
      - 상반기 구현, 문자열, 자료구조 6/4
      삼성전자
      - 완전탐색, 시뮬레이션, DFS/BFS 2/2
 
-###2019
+### 2019
      삼성전자
      - 완전 탐색, 시뮬레이션, 구현, DFS/BFS 2/2
      카카오
@@ -101,7 +100,7 @@ Coding Test 스터디 개념&amp;문제 저장소
      라인
      - 상반기 : 탐색, 구현, 문자열, 다이나믹 프로그래밍 5/3 
      - 하반기 : 자료구조, 완전 탐색, 구 6/4
-###2018
+### 2018
      삼성전자
      - 완전탐색, 구현, DFS/BFS, 시뮬레이션 2/1
      카카오
