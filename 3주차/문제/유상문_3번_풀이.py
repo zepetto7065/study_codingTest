@@ -1,28 +1,29 @@
 from itertools import combinations
 
 
-def solution(number, k) :
-    answer = ''
-    numbers = list(number)
-    l = len(numbers) - k
+def solution(number, k):
+    stack = []
 
-    index = 0
-    slice = k
+    for (i, num) in enumerate(number):
+        while stack and stack[-1] < num and k > 0:
+            stack.pop()
+            k -= 1
 
-    for i in range(l):
-        slice_numbers = numbers[index :index + slice]
+        if k == 0:
+            stack += number[i:]
+            break;
 
-        if len(slice_numbers) >= slice:
+        stack.append(num)
 
-            max_num = max(slice_numbers)
-            index += numbers.index(max_num) + 1
-            slice -= 1
-            answer += max_num
-        else:
-            answer += numbers[len(numbers)-1]
+    #남아있는 k
+    if k > 0 : stack = stack[:-k]
+    answer = "".join(stack)
     return answer
 
+
+
 # print(solution("1924",2))
-print(solution("1231234",3))
-# print(solution("4177252841",4))
+# print(solution("1231234",3))
+# print(solution("1249541", 2))
+print(solution("4177252841",4))
 print('hello')
