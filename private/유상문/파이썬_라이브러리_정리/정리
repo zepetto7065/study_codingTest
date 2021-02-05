@@ -1,3 +1,17 @@
-collections.Counter
+#collections.Counter
 - 컨테이너에 동일 객체가 몇개인지 확인
 - return 값은 딕셔널리
+
+#enumerate
+>>> t = [1, 5, 7, 33, 39, 52]
+>>> for p in enumerate(t):
+...     print(p)
+...
+(0, 1)
+(1, 5)
+(2, 7)
+(3, 33)
+(4, 39)
+(5, 52)
+
+for문을 튜플 형태로 반환
