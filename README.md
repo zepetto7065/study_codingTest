@@ -84,7 +84,18 @@ Coding Test 스터디 개념&amp;문제 저장소
      3번 - https://programmers.co.kr/learn/courses/30/lessons/42883 큰수만들기(레벨2)
           
      4번 - https://programmers.co.kr/learn/courses/30/lessons/42885 구명보트(레벨2)
+
+4주차 (2월 7일  - 2월 13일 ) - 구현 ( 완전 탐색 + 시뮬레이션 )
+
+    연습문제 
      
+     1번 - https://programmers.co.kr/learn/courses/30/lessons/42840 모의고사 (레벨1)
+          
+     2번 - https://programmers.co.kr/learn/courses/30/lessons/42839 소수찾기 (레벨2)
+          
+     3번 - https://programmers.co.kr/learn/courses/30/lessons/42842 카펫 (레벨2)
+            
+     4번 - https://www.acmicpc.net/problem/1966 프린터 큐
 ## 진행
 ### 1주차 
   - 아이스브레이킹 
@@ -105,6 +116,10 @@ Coding Test 스터디 개념&amp;문제 저장소
   - 2주차 주제 ( 힙, 해시 ) 추가 풀이 ( 백준 - 9375(패션왕 신해빈), 1927 (최소힙) )
   - Slack 사용 & 깃헙 연동
   - 다음주 주제 그리디 
+
+  
+### 4주차
+  - 다음 모임 2/13(토) 10시 - 12시 예정
 
 ## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
