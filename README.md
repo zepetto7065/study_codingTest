@@ -96,6 +96,20 @@ Coding Test 스터디 개념&amp;문제 저장소
      3번 - https://programmers.co.kr/learn/courses/30/lessons/42842 카펫 (레벨2)
             
      4번 - https://www.acmicpc.net/problem/1966 프린터 큐
+
+5주차 (2월 14일  - 2월 21일 ) - 복습 (1-4주차)
+
+    연습문제 
+     
+     1번 - https://www.acmicpc.net/problem/12605 단어순서뒤집기 - 스택
+          
+     2번 - https://www.acmicpc.net/problem/15828 라우터 - 큐
+          
+     3번 - https://www.acmicpc.net/problem/11497 통나무건너뛰기 - 그리디
+            
+     4번 - https://www.acmicpc.net/problem/17219 비밀번호찾기 - 해시 
+
+
 ## 진행
 ### 1주차 
   - 아이스브레이킹 
