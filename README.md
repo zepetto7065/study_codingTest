@@ -108,8 +108,24 @@ Coding Test 스터디 개념&amp;문제 저장소
      3번 - https://www.acmicpc.net/problem/11497 통나무건너뛰기 - 그리디
             
      4번 - https://www.acmicpc.net/problem/17219 비밀번호찾기 - 해시 
+     
+6주차 (2월 21일  - 2월 27일 ) - 그리디 + 시뮬레이션
 
-
+    연습문제 
+     
+     1번 - https://www.acmicpc.net/problem/14503 로봇청소기
+          
+     2번 - https://www.acmicpc.net/problem/14499 주사위 굴리기
+          
+     3번 - https://www.acmicpc.net/problem/14891 톱니바퀴
+            
+     4번 - https://www.acmicpc.net/problem/16236 아기상어
+     
+     5번 - https://www.acmicpc.net/problem/1541 잃어버린 괄호 (현장)
+     
+     6번 - https://www.acmicpc.net/problem/11047 동전 0 (현장)
+     
+     
 ## 진행
 ### 1주차 
   - 아이스브레이킹 
