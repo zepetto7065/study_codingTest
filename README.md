@@ -124,8 +124,15 @@ Coding Test 스터디 개념&amp;문제 저장소
      5번 - https://www.acmicpc.net/problem/1541 잃어버린 괄호 (현장)
      
      6번 - https://www.acmicpc.net/problem/11047 동전 0 (현장)
+7주차 (2월 28일  - 3월 6일 ) - 시뮬레이션
+
+    연습문제 
      
-     
+     1번 - https://www.acmicpc.net/problem/17144 미세먼지 안녕!
+          
+     2번 - https://www.acmicpc.net/problem/18808 스티커 붙이기
+
+      
 ## 진행
 ### 1주차 
   - 아이스브레이킹 
