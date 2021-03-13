@@ -132,15 +132,6 @@ Coding Test 스터디 개념&amp;문제 저장소
           
      2번 - https://www.acmicpc.net/problem/18808 스티커 붙이기
 
-8주차 - BFS
-
-    연습문제
-
-    1번 - https://www.acmicpc.net/problem/1261 알고스팟
-    
-    2번 - https://www.acmicpc.net/problem/13549 숨바꼭질3
-
-    3번 - https://www.acmicpc.net/problem/17779 게리렌더링2
       
 ## 진행
 ### 1주차 
