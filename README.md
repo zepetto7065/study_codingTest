@@ -154,6 +154,16 @@ Coding Test 스터디 개념&amp;문제 저장소
 
     2번 - https://www.acmicpc.net/problem/1946 신입사원
 
+
+11주차 (3월 27일 - 4월 3일 ) - 이진탐색
+    
+    1번 - https://www.acmicpc.net/problem/1920 수 찾기 
+
+    2번 - https://www.acmicpc.net/problem/2110 공유기 설치
+    
+    3번 - https://www.acmicpc.net/problem/12738 가장 긴 증가하는 부분 수열3
+
+
 ## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
 ### 2020
