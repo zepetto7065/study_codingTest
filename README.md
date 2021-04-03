@@ -164,6 +164,14 @@ Coding Test 스터디 개념&amp;문제 저장소
     3번 - https://www.acmicpc.net/problem/12738 가장 긴 증가하는 부분 수열3
 
 
+12주차 (4월 3일 - 4월 10일 ) - 다이나믹프로그래밍
+
+    1번 - https://www.acmicpc.net/problem/10870 피보나치 수
+
+    2번 - https://www.acmicpc.net/problem/1932 정수 삼각형
+
+    3번 - https://www.acmicpc.net/problem/2839 설탕 배달
+
 ## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
 ### 2020
