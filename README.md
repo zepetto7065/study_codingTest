@@ -172,6 +172,14 @@ Coding Test 스터디 개념&amp;문제 저장소
 
     3번 - https://www.acmicpc.net/problem/2839 설탕 배달
 
+13주
+
+    1번 - https://www.acmicpc.net/problem/11724 피보나치 수
+
+    2번 - https://www.acmicpc.net/problem/2490 윷놀이 
+
+    3번 - https://www.acmicpc.net/problem/1946 신입사원 
+
 ## 연도 밑 3사 회사 시험유형 
 회사별 유형과 문제수/커트라인(예)
 ### 2020
