@@ -174,7 +174,7 @@ Coding Test 스터디 개념&amp;문제 저장소
 
 13주
 
-    1번 - https://www.acmicpc.net/problem/11724 피보나치 수
+    1번 - https://www.acmicpc.net/problem/11724 연결 요소의 수
 
     2번 - https://www.acmicpc.net/problem/2490 윷놀이 
 
